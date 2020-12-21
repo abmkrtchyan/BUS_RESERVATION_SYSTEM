@@ -22,3 +22,4 @@ cmake ..
 cd Bus_Reservation_System/build/
 make
 ./Bus_Resevation_System 
+```
