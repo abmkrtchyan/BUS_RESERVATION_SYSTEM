@@ -4,7 +4,7 @@ You can book seats on the bus, register as a driver, և register a new trip.
 
 ## Installation
 
-[g++][https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux]
+[g++](https://linuxconfig.org/how-to-install-g-the-c-compiler-on-ubuntu-18-04-bionic-beaver-linux)
 
 ## Building
 
